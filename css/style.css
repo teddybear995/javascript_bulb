@@ -1,0 +1,16 @@
+img{
+    width: 100px;
+    height: 180px;
+}
+button {
+     padding: 20px;
+    background-color:blue;
+    color: white ;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+bulb{
+    display: flex; 
+    flex-direction: column;
+}
